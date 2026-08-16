@@ -1,0 +1,7 @@
+{
+  "versionName": "0.1.1-beta",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/USERNAME/tripoint-android-updates/releases/download/v0.1.1/Tripoint-release.apk",
+  "changelog": "First public build",
+  "force": false
+}
