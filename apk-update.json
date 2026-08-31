@@ -1,7 +1,7 @@
 {
-    "versionName":  "1.2.16-beta",
-    "versionCode":  49,
-    "apkUrl":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v1.2.16-beta/Tripoint-release.apk",
+    "versionName":  "1.2.17-beta",
+    "versionCode":  50,
+    "apkUrl":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v1.2.17-beta/Tripoint-release.apk",
     "changelog":  "Launcher update",
     "force":  true
 }
