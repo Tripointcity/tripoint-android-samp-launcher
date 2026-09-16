@@ -1,7 +1,7 @@
 {
-    "versionName":  "3.0.11-beta",
-    "versionCode":  68,
-    "apkUrl":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v3.0.11-beta/Tripoint-release.apk",
-    "changelog":  "Launcher update",
+    "versionName":  "3.0.12-beta",
+    "versionCode":  69,
+    "apkUrl":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v3.0.12-beta/Tripoint-release.apk",
+    "changelog":  "Fix APK self-update cache so phones pick up new builds.",
     "force":  true
 }
