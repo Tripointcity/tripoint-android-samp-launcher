@@ -1,7 +1,7 @@
 {
-    "version":  "0.0.0.1",
-    "build":  1,
-    "url":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v0.0.0.1/Tripoint-City.apk",
-    "notes":  "Tripoint City 0.0.0.1 beta: new launcher for Android and Windows.",
+    "version":  "0.0.0.2",
+    "build":  2,
+    "url":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v0.0.0.2/Tripoint-City.apk",
+    "notes":  "Launcher update",
     "force":  true
 }
