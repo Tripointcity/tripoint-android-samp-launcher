@@ -1,7 +1,7 @@
 {
-    "versionName":  "1.0.1.24-beta",
+    "versionName":  "1.0.1.25-beta",
     "versionCode":  1,
-    "apkUrl":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v0.0.0.24/Tripoint-City.apk",
+    "apkUrl":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v0.0.0.25/Tripoint-City.apk",
     "changelog":  "Launcher update",
     "force":  true
 }
