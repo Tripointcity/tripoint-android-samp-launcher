@@ -1,7 +1,7 @@
 {
-    "version":  "0.0.0.34",
-    "build":  34,
-    "url":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v0.0.0.34/Tripoint-City.apk",
+    "version":  "0.0.0.36",
+    "build":  36,
+    "url":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v0.0.0.36/Tripoint-City.apk",
     "notes":  "Launcher update",
     "force":  true
 }
