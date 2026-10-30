@@ -1,7 +1,7 @@
 {
-    "versionName":  "1.0.1.54-beta",
+    "versionName":  "1.0.1.56-beta",
     "versionCode":  1,
-    "apkUrl":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v0.0.0.54/Tripoint-City.apk",
-    "changelog":  "Launcher update",
+    "apkUrl":  "https://github.com/Tripointcity/tripoint-android-samp-launcher/releases/download/v0.0.0.56/Tripoint-City.apk",
+    "changelog":  "Home Play and Local OMP mode for owner PC",
     "force":  true
 }
